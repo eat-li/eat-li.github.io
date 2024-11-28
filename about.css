@@ -3,7 +3,7 @@
   font-size: 20px;
   color: #000000;
   margin-top: 20px;
-  background-image: url(../image/12.png);
+  background-image: url(12.png);
   height: 40vh;
   background-size: cover;
   width: 100vw;
@@ -50,16 +50,16 @@ main .myself .item .txt {
 }
 /* 图片背景 */
 main .myself .item1 .imgs {
-  background-image: url(/image/8.png);
+  background-image: url(8.png);
 }
 main .myself .item2 .imgs {
-  background-image: url(/image/9.png);
+  background-image: url(9.png);
 }
 main .myself .item3 .imgs {
-  background-image: url(/image/3.png);
+  background-image: url(3.png);
 }
 main .myself .item4 .imgs {
-  background-image: url(/image/8.png);
+  background-image: url(8.png);
 }
 /* 动画效果 */
 main .myself .item1 {
